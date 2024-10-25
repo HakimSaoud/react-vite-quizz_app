@@ -38,6 +38,10 @@ function QuizGame() {
       question: "9. What is an API in programming?",
       answers: ["A way for programs to communicate", "A type of data structure", "A software application"]
     },
+    {
+      question: "10. What is the time complexity of a linear search algorithm?",
+      answers: ["O(log n)", "O(n)", "O(1)"]
+    },
   ];
   
   const correctAnswers = [
