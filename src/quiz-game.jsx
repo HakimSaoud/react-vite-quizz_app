@@ -38,7 +38,6 @@ function QuizGame() {
       question: "9. What is an API in programming?",
       answers: ["A way for programs to communicate", "A type of data structure", "A software application"]
     },
-    
   ];
   
   const correctAnswers = [
