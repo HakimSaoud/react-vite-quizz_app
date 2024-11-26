@@ -10,6 +10,7 @@ function QuizGame() {
       question: "2. What is the output of the following code: `console.log(true && false)`?",
       answers: ["true", "false", "error"]
     },
+
     {
       question: "3. What does the following loop do: `for (let i = 0; i < 5; i++) { console.log(i); }`?",
       answers: ["Prints numbers from 1 to 5", "Prints numbers from 0 to 4", "Prints the value of i 5 times"]
