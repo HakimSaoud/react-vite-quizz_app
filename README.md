@@ -4,6 +4,8 @@ A simple React-based quiz game that tests your knowledge of programming concepts
 
 ---
 
+![](Capture.PNG)
+
 ## Features
 
 - **Dynamic Questions**: A series of multiple-choice questions with immediate feedback.
@@ -30,6 +32,8 @@ A simple React-based quiz game that tests your knowledge of programming concepts
 2. The game will automatically move to the next question after each answer.
 3. At the end of the quiz, your correct and incorrect scores will be displayed.
 4. Click the Repeat button to restart the quiz or the Reset button during the game to start over.
+
+![](Capture2.PNG)
 
 ## Future Enhancements
 - Add support for more questions and categories.
