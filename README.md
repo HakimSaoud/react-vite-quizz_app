@@ -40,5 +40,4 @@ A simple React-based quiz game that tests your knowledge of programming concepts
 - Implement a timer for each question.
 - Save user progress using local storage.
 
-  ## Try it Online :
-   ![](https://hakimsaoud.github.io/react-vite-quizz_app/)
+![Try it Online](https://hakimsaoud.github.io/react-vite-quizz_app/)
